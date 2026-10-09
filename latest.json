@@ -1,5 +1,8 @@
-
 {
-  "version": "1.3.0",
-  "game": "versions/1.3.0/game.py"
+  "name": "HandMotion",
+  "version": "1.0.2",
+  "package": "HandMotion-1.0.2.zip",
+  "package_url": "https://enzohenrique77218-blip.github.io/handmotion-updates/releases/HandMotion-1.0.2.zip",
+  "sha256": "9e4ba33c3e0e6c12800ee5bae744a6fbcc17286e98f66e0e028f24390a0e0aa9",
+  "published_at": "2026-10-09T02:28:05Z"
 }
